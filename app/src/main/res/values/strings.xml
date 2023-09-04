@@ -3,4 +3,5 @@
     <string name="button">Roll</string>
     <string name="number">5</string>
     <string name="dice_rolled">Dice Rolled!</string>
+    <string name="default_image_description">0</string>
 </resources>
